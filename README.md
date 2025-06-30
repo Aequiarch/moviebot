@@ -125,7 +125,7 @@ moviebot/
 
   ```bash
 
-git clone https://github.com/yourusername/moviebot.git
+git clone https://github.com/Aequiarch/moviebot.git
 
 cd moviebot
 
